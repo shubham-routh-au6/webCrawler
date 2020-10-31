@@ -12,7 +12,7 @@
 
 ### App Demo 🎧
 
-(https://blogsen.netlify.app/)
+(https://imbdmovie.netlify.app/)
 
 ### Languages and Tools:
 
