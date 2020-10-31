@@ -9,6 +9,7 @@
 - 👯 Once all data saved, the next step is to start the server and "npm run dev" will set the server on.
 - 🥅 The next step is to cd to Client folder and run command "npm start", which will run the client side code in a browser.
 - ⚡ One can search movies by their name, genre and IMDb rating.
+- 🌱 Please note:- The client side code needs to be run on localhost:3000 as it is configured with the same on server side script inorder to ignore CORS error and secure our app.
 
 ### App Demo 🎧
 
