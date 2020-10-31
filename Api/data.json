@@ -1,0 +1,162 @@
+[
+  {
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "movie_name": "The Shawshank Redemption",
+    "genre": "Drama",
+    "duration": "142 min",
+    "imdb_Rating": "9.3",
+    "metaScore": "80"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "movie_name": "The Godfather",
+    "genre": "Crime, Drama",
+    "duration": "175 min",
+    "imdb_Rating": "9.2",
+    "metaScore": "100"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Dark Knight",
+    "genre": "Action, Crime, Drama",
+    "duration": "152 min",
+    "imdb_Rating": "9.0",
+    "metaScore": "84"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Godfather: Part II",
+    "genre": "Crime, Drama",
+    "duration": "202 min",
+    "imdb_Rating": "9.0",
+    "metaScore": "90"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Lord of the Rings: The Return of the King",
+    "genre": "Action, Adventure, Drama",
+    "duration": "201 min",
+    "imdb_Rating": "8.9",
+    "metaScore": "94"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Pulp Fiction",
+    "genre": "Crime, Drama",
+    "duration": "154 min",
+    "imdb_Rating": "8.9",
+    "metaScore": "94"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Schindler's List",
+    "genre": "Biography, Drama, History",
+    "duration": "195 min",
+    "imdb_Rating": "8.9",
+    "metaScore": "94"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "12 Angry Men",
+    "genre": "Crime, Drama",
+    "duration": "96 min",
+    "imdb_Rating": "8.9",
+    "metaScore": "96"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Inception",
+    "genre": "Action, Adventure, Sci-Fi",
+    "duration": "148 min",
+    "imdb_Rating": "8.8",
+    "metaScore": "74"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Fight Club",
+    "genre": "Drama",
+    "duration": "139 min",
+    "imdb_Rating": "8.8",
+    "metaScore": "66"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Action, Adventure, Drama",
+    "duration": "178 min",
+    "imdb_Rating": "8.8",
+    "metaScore": "92"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Forrest Gump",
+    "genre": "Drama, Romance",
+    "duration": "142 min",
+    "imdb_Rating": "8.8",
+    "metaScore": "82"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Good, the Bad and the Ugly",
+    "genre": "Western",
+    "duration": "148 min",
+    "imdb_Rating": "8.8",
+    "metaScore": "90"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Hamilton",
+    "genre": "Biography, Drama, History",
+    "duration": "160 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "90"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Lord of the Rings: The Two Towers",
+    "genre": "Action, Adventure, Drama",
+    "duration": "179 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "87"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "The Matrix",
+    "genre": "Action, Sci-Fi",
+    "duration": "136 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "73"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Goodfellas",
+    "genre": "Biography, Crime, Drama",
+    "duration": "146 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "90"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Star Wars: Episode V - The Empire Strikes Back",
+    "genre": "Action, Adventure, Fantasy",
+    "duration": "124 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "82"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "One Flew Over the Cuckoo's Nest",
+    "genre": "Drama",
+    "duration": "133 min",
+    "imdb_Rating": "8.7",
+    "metaScore": "83"
+  },
+  {
+    "imageUrl": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "movie_name": "Parasite",
+    "genre": "Comedy, Drama, Thriller",
+    "duration": "132 min",
+    "imdb_Rating": "8.6",
+    "metaScore": "96"
+  }
+]
